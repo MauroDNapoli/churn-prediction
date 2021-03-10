@@ -14,4 +14,4 @@ In this project, we try to predict customer churn using supervised learning algo
 Dataset downloaded from Kagle: https://www.kaggle.com/blastchar/telco-customer-churn
 
 ## Findings
-After fitting different models with different hyperparameters combinations, we found that it is possible to predict 60% of customer churn with over 60% precision using a Gradient Boosting Classifier model.
+After fitting different models with different hyperparameters combinations, we found that it is possible to predict 90% of customer churn with over 47% precision using a Gradient Boosting Classifier model.
