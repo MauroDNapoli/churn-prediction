@@ -3,6 +3,9 @@ My name is Mauro Napoli. I'm a data science intern at Reddit, currently finishin
 
 # churn-prediction
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MauroDNapoli/churn-prediction/blob/main/churn_prediction.ipynb)
+
+
 ## Brief description
 Nowadays, it is straightforward for customers to change internet or cell phone providers. That is why Telco's companies need to keep the customer engaged and prevent them from churning.
 In this project, we try to predict customer churn using supervised learning algorithms in the sci-kit learn package.
