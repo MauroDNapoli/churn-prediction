@@ -15,3 +15,11 @@ Dataset downloaded from Kagle: https://www.kaggle.com/blastchar/telco-customer-c
 
 ## Findings
 After fitting different models with different hyperparameters combinations, we found that it is possible to predict 90% of customer churn with over 47% precision using a Gradient Boosting Classifier model.
+
+Also, the most important features for predicting churn are:
+
+- Contract
+- TotalCharges
+- Tenure
+- InternetService
+- OnlineSecurity
